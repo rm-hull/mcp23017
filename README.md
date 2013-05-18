@@ -3,7 +3,9 @@ mcp23017
 
 Schematics and build info for assembling multiple MCP23017 input/output port
 expanders with bi-directional level shifters and selectable power source
-(Internal 3V3, 5V, External 5V).
+(Internal 3V3, 5V, External 5V), as below.
+
+![Level shifter](https://raw.github.com/rm-hull/mcp23017/master/doc/level-shifter.jpg) [Attribution unknown]
 
 Further technical details for the MCP23017 expander can be found in the 
 [datasheet](https://raw.github.com/rm-hull/mcp23017/master/doc/MCP23017%20datasheet.pdf) [PDF].
