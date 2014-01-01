@@ -63,3 +63,7 @@ References
 
 * http://www.bootc.net/archives/2012/05/19/i2c-and-the-raspberry-pi/
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rm-hull/mcp23017/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
